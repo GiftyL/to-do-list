@@ -1,1 +1,3 @@
-# to-do-list
+# to-do-list app
+A To-Do List app is a tool that helps people organize their tasks and manage their time. The app allows users to create tasks and complete them. It can be used to track progress and motivate users to complete tasks they set to themselves.
+In this to-do list app, you can easily add, edit, delete or mark as complete your tasks. There are filter buttons that helps you to filter the tasks accordingly. The tasks you added to this app will be stored in the browser’s local storage so, they won’t be removed on page refresh or tab close. You can also delete all tasks at once by clicking on the “Clear All” button.
